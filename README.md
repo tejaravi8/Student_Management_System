@@ -30,4 +30,16 @@ It supports:
 ---
 
 ## 📁 Project Structure
-
+FastAPI_Project/
+│
+├── main.py
+├── requirements.txt
+├── README.md
+└── templates/
+├── home.html
+├── signup.html
+├── login.html
+├── user_profile.html
+├── admin_dashboard.html
+├── add_student.html
+└── edit_student.html
